@@ -1,1 +1,1 @@
-# flower_shop-html-
+реализация верстки интернет-магазина цветов с применением bootstrap/swiper-slider.
